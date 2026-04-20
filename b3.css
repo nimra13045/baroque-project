@@ -1,0 +1,115 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+#move{width: 215px;
+}
+.logo{
+        display: flex;
+    position: relative;
+    justify-content: center;
+    top: 10px;
+}
+h3{
+    display: flex
+;
+
+    position: relative;
+    left: 180px;
+}
+span{
+ position: relative;
+    display: flex
+;
+
+font-weight:bold;
+    top: -48px;
+    left: -120px;
+    justify-content: end;
+}
+#color{
+  background-color: #EAEAEA;
+}
+#action{
+    position: relative;
+    display: flex
+;
+
+font-weight:bold;
+    top: -48px;
+        left: -140px;
+    justify-content: end; 
+}
+#action a{
+    color: black !important;
+    text-decoration: none;
+}
+#email{
+        display: flex
+;
+    width: 61%;
+    position: relative;
+    left: 236px;
+    height: 51px;
+    top: -14px;
+    border: 2px solid black;
+    border-radius: 14px;
+}
+b{
+        position: relative;
+    display: flex
+;
+    left: 305px;
+    top: -4px;
+}
+#able{
+        position: relative;
+    display: flex
+;
+    justify-content: center;
+    top: 7px;
+}
+#country{
+    display: flex
+;
+    width: 61%;
+    position: relative;
+    left: 236px;
+    height: 51px;
+    top: -14px;
+    border: 1px solid black;
+    border-radius: 14px;
+}
+#name{
+    display: flex
+;
+    width: 61%;
+    position: relative;
+    left: 236px;
+    height: 51px;
+   top: -2px;
+    border: 1px solid black;
+    border-radius: 14px;
+}
+#lname{
+    display: flex
+;
+    width: 61%;
+    position: relative;
+    left: 236px;
+    height: 51px;
+   top: 11px;
+    border: 1px solid black;
+    border-radius: 14px;
+}
+#address{
+    display: flex
+;
+    width: 61%;
+    position: relative;
+    left: 236px;
+    height: 51px;
+   top: 25px;
+    border: 1px solid black;
+    border-radius: 14px;
+}

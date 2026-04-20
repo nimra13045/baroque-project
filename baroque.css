@@ -1,0 +1,293 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+
+#marquee {
+    width: 100%;
+    background-color: #2F2F2F;
+    color: white;
+    height: 33px;
+    display: flex;
+    align-items: center;
+    position: fixed; 
+    top: 0;
+    z-index: 10;
+    font-size: 14px;
+}
+
+
+
+#primary img {
+    width: 100%;
+    display: block;
+}
+
+#primary {
+    margin-top: 83px; }
+#move{
+    width: 130px;
+    position: absolute;
+    top: 20px;
+    left: 600px;
+}
+#move:hover{
+    cursor: pointer;
+}
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 70px;
+    padding: 0 40px;
+    position: fixed;
+    top: 33px;
+    width: 100%;
+    z-index: 9;
+   background-color:   #C3B9B0;
+    transition: background-color 0.3s ease;
+}
+
+.navbar:hover {
+    background-color: white; 
+}
+
+
+.navbar:hover .menu-icon,
+.navbar:hover .country,
+.navbar:hover .icon {
+   cursor: pointer;
+} 
+
+
+.right-icons {
+      display: flex;
+    align-items: center;
+    gap: 15px;
+    position: absolute;
+    left: 1100px;
+}
+#btn{
+   background-color: white;
+    color: black;
+    border: 1px solid white;
+    position: absolute;
+   top: 635px;
+    left: 623px;
+    width: 130px;
+    height: 46px;
+       transition: background 1s ease;
+}
+#btn:hover{
+    color: white;
+background-color: #20382B ;
+
+}
+#moye{
+    color: black;
+    position: relative;
+    display: flex
+;
+    justify-content: center;
+    top: 64px;}
+    #contact{
+    display: flex;
+    position: relative;
+    top: 61px;
+    justify-content: center;
+    padding: 30px;
+    }
+    .width {
+    height: 615px;
+    padding: 12px;
+    width: 532px;  
+    /* transition: transform 4s ease;    FIX */
+}
+/* 
+.width:hover{
+    transform: scale(1.2);
+} */
+
+    #contactbox{
+      display: flex;
+    position: relative;
+    top: 61px;
+    justify-content: center;
+    padding: 30px;  
+    }
+    .widt{
+      height: 490px;
+    padding: 8px;
+    width: 414px;
+    }
+    /* .widts{
+      height: 490px !important;
+    padding: 8px;
+    width: 414px !important;
+    } */
+    #contactx{
+      display: flex;
+    position: relative;
+    top: 61px;
+    justify-content: center;
+    padding: 30px;   
+    }
+    #contactbo{
+       display: flex;
+    position: relative;
+    top: 61px;
+    justify-content: center;
+    padding: 30px;   
+    }
+    #more{
+position: relative;
+    top: 665px;
+    left: 324px;
+    z-index: 1;
+
+    }
+    #bn{
+     width: 107px;
+    height: 42px;
+     border: 1px solid black;
+    }
+    #moe {
+    position: relative;
+    top: 665px;
+    left: 821px;
+    z-index: 1;
+}
+    #bnt{
+width: 107px;
+    height: 42px;
+     border: 1px solid black;
+    }
+    #moree{
+position: relative;
+    top: 516px;
+    z-index: 1;
+    left: 157px;
+
+    }
+    #moee{
+position: relative;
+    top: 516px;
+    z-index: 1;
+    left: 501px;
+    }
+    #moet{
+    position: relative;
+    top: 516px;
+    z-index: 1;
+        left: 813px;
+    }
+    button:hover{
+        color: white;
+        background-color: black;
+    }
+    #m{
+        position: relative;
+    top: 53px;
+    display: flex
+;
+    justify-content: center;
+
+    }
+    #email{
+    position: relative;
+    top: 44px;
+    display: flex;
+    width: 267px;
+    height: 35px;
+    left: 436px;
+border: 2px solid black;
+    }
+    #sub{
+        position: relative;
+    top: 3px;
+    display: flex;
+    width: 198px;
+    height: 41px;
+    left: 720px;
+    border: 2px solid black; 
+    }
+   
+
+footer{
+    background-color:#2F2F2F;
+    color: white;
+        position: relative;
+    top: 51px;
+    height: 430px;
+}
+#set{
+    display: flex
+;
+    justify-content: space-evenly;
+    position: relative;
+    top: 39px;
+}
+#asa a{
+    color: grey;
+    text-decoration: none;
+}
+#are{
+position: relative;
+    top: 103px;
+    left: 239px;
+}
+#con{
+        position: relative;
+    top: 163px;
+    left: 145px;
+}
+
+#call{
+      position: relative;
+    top: 224px;
+    left: 55px;  
+}
+#what{
+        position: relative;
+    top: 224px;
+      
+    left: 189px;
+}
+#our{
+   position: relative;
+    top: 163px;
+    left: -17px; 
+}
+#emaila{
+position: relative;
+    top: 223px;
+        left: 200px;
+  
+}
+
+#change {
+    position: relative;
+    top: 93px;
+    left: 66px;
+    
+}
+#store{
+       position: relative;
+    top: 157px; 
+}
+#stoe{
+   
+position: relative;
+    top: 101px;
+    left: -318px;
+}
+#pics{
+   position: relative;
+    top: 268px;
+    left: 47px;
+    padding: 12px; 
+}
+#no{position: relative;
+    top: 279px;
+    width: 100%;}
