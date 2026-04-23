@@ -1,7 +1,11 @@
-<<<<<<< HEAD
 # 🎨 Baroque Project
 
 HTML & CSS Baroque style website project created by Nimra Nazir.
+
+---
+
+## 🌐 Live Website
+👉 https://nimra13045.github.io/baroque-project/
 
 ---
 
@@ -17,7 +21,6 @@ The purpose of this project is to improve my front-end development skills such a
 ---
 
 ## 📽️ Live Demo Video
-Watch the project video here:  
 https://youtu.be/LyPYjxEJsRs
 
 ---
@@ -52,8 +55,3 @@ This project is part of my web development practice to build real-world front-en
 
 ## 👍 Thank You
 If you like this project, feel free to give it a ⭐ on GitHub!
-=======
-# baroque-project
-HTML &amp; CSS Baroque style website project 
-
->>>>>>> b3903ad47d0769f478b69a2d7e0a367d706288f7
